@@ -2,4 +2,4 @@
 <p align="center">Convert mata uang mana saja disini</p>
 
 
-<h3 align="center">Convert dari USD ke IDR, atau sebaliknya bisa banget!</h3>
+<h3 align="center" style="color:lightblue">Convert dari USD ke IDR, atau sebaliknya bisa banget!</h3>
